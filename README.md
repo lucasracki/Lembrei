@@ -1,2 +1,5 @@
 # ads-2020-1-lembrei
-Lucas Racki
+
+Projeto web de um site para gerenciar anotações/lembretes.
+
+
