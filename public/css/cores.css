@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+
+body {
+    padding-top: 56px;
+    font-family:  'Raleway', sans-serif;
+    background-color: rgba(230, 230, 230, 0.25);
+}
+nav{
+    background-color: #FBAB7E;
+    background-image:  #F7CE68 50%;
+    font-family: 'Righteous', cursive;
+}
+nav > spam {
+    color: cornsilk;
+}
+
+p{
+    text-align: justify;
+}
+
+blockquote{
+
+    color:  rgba(63,94,251,1);
+}
+blockquote p{
+    text-align: center  ;
+    font-size: 26px;
+    font-style: italic;
+
+}
+
+
+
+
+footer{
+    background: linear-gradient(to right, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) ;
+    color: white;
+    font-family:  'Raleway', sans-serif;
+}
