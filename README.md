@@ -2,6 +2,6 @@
 
 Projeto web de um site para gerenciar anotações/lembretes.
 
-Foi utilizado Bootsrap e Laravel.
+Foi utilizado Bootstrap e Laravel.
 
 
